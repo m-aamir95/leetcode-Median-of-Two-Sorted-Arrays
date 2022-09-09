@@ -1,5 +1,6 @@
 //Leet-Code Hard Problem
 //https://leetcode.com/problems/median-of-two-sorted-arrays/
+//A very clever solution based upon the use of stack and exploiting the fact that both arrays/vectors are sorted
 
 #include <iostream>
 #include <vector>
